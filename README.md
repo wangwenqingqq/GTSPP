@@ -166,7 +166,6 @@ GTSPP/
 │   ├── update.cuh           # Dynamic insert/delete operations
 │   ├── residual_pruning.cuh # Per-level scale-based pruning (C1, device functions)
 │   ├── residual_tuner.cuh   # Calibration and online adaptation (C1, host class)
-│   └── mlp_constant.cuh     # Legacy MLP declarations (superseded by scale pruning)
 ├── tools/
 │   └── gen_sample_data.py   # Sample dataset generator
 ├── scripts/
