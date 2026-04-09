@@ -1,0 +1,9 @@
+build/
+bin/
+*.o
+*.log
+*.txt
+!CMakeLists.txt
+!README.md
+!data/sample/*.txt
+!scripts/*.txt
